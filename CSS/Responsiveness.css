@@ -40,28 +40,22 @@
 }
 @media (max-width: 558px) {
   .email-submition {
-    width: 400px;
+    width: 100%;
+  }
+  form {
+    border-radius: 0;
   }
   .popUp-container {
+    border-radius: 0;
     width: 300px;
   }
   h1 {
     font-size: 2.5rem;
   }
 }
-@media (max-width: 460px) {
-  .email-submition {
-    width: 380px;
-    border-radius: 0;
-  }
-}
 @media (max-width: 370px) {
   body {
     font-size: 12px;
-  }
-  .email-submition {
-    width: 300px;
-    border-radius: 0;
   }
   h1 {
     font-size: 1.8rem;
