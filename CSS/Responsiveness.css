@@ -17,6 +17,8 @@
   }
   .mobile-img {
     display: block;
+    position: relative;
+    top: -25px;
   }
   .mobile-img img {
     width: 100%;
